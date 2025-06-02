@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chemical-reaction-simulator/static/css/main.da644955.css",
+    "main.js": "/chemical-reaction-simulator/static/js/main.3ea74b79.js",
+    "index.html": "/chemical-reaction-simulator/index.html",
+    "main.da644955.css.map": "/chemical-reaction-simulator/static/css/main.da644955.css.map",
+    "main.3ea74b79.js.map": "/chemical-reaction-simulator/static/js/main.3ea74b79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da644955.css",
+    "static/js/main.3ea74b79.js"
+  ]
+}
