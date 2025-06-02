@@ -1,0 +1,24 @@
+.app-container {
+  padding: 40px 20px;
+}
+
+.app-container h1 {
+  color: #1976d2;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+/* Add some spacing between components */
+.app-container > * {
+  margin-bottom: 30px;
+}
+
+/* Style the buttons */
+.app-container button {
+  text-transform: none;
+}
+
+/* Add a subtle background to the page */
+body {
+  background-color: #fafafa;
+} 
